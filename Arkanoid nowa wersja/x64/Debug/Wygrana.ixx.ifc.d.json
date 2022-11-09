@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\kil85\\source\\repos\\polsl-aei-pk4\\70137a3a-gr51-repo\\projekt\\arkanoid nowa wersja\\arkanoid nowa wersja\\wygrana.ixx",
+        "ProvidedModule": "Wygrana",
+        "Includes": [],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": [
+            {
+                "Header": "c:\\users\\kil85\\source\\repos\\polsl-aei-pk4\\70137a3a-gr51-repo\\projekt\\arkanoid nowa wersja\\include\\sfml\\graphics.hpp",
+                "BMI": "C:\\Users\\kil85\\source\\repos\\polsl-aei-pk4\\70137a3a-gr51-repo\\Projekt\\Arkanoid nowa wersja\\Arkanoid nowa wersja\\x64\\Debug\\Graphics.hpp_U2HHDS42ADCKJNWP.ifc"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.32.31326\\include\\iostream",
+                "BMI": "C:\\Users\\kil85\\source\\repos\\polsl-aei-pk4\\70137a3a-gr51-repo\\Projekt\\Arkanoid nowa wersja\\Arkanoid nowa wersja\\x64\\Debug\\iostream_TJLN7WAEZU2IFP92.ifc"
+            },
+            {
+                "Header": "c:\\users\\kil85\\source\\repos\\polsl-aei-pk4\\70137a3a-gr51-repo\\projekt\\arkanoid nowa wersja\\arkanoid nowa wersja\\nacisniety.h",
+                "BMI": "C:\\Users\\kil85\\source\\repos\\polsl-aei-pk4\\70137a3a-gr51-repo\\Projekt\\Arkanoid nowa wersja\\Arkanoid nowa wersja\\x64\\Debug\\Nacisniety.h_UUO67HGPM72LXR58.ifc"
+            }
+        ]
+    }
+}

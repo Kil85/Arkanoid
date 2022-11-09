@@ -1,0 +1,16 @@
+﻿  Arkanoid nowa wersja.cpp
+  Ball.cpp
+  Brick.cpp
+  Game.cpp
+C:\Users\kil85\source\repos\polsl-aei-pk4\70137a3a-gr51-repo\Projekt\Arkanoid nowa wersja\Arkanoid nowa wersja\Game.cpp(34,67): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+C:\Users\kil85\source\repos\polsl-aei-pk4\70137a3a-gr51-repo\Projekt\Arkanoid nowa wersja\Arkanoid nowa wersja\Game.cpp(34,43): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+C:\Users\kil85\source\repos\polsl-aei-pk4\70137a3a-gr51-repo\Projekt\Arkanoid nowa wersja\Arkanoid nowa wersja\Game.cpp(35,76): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+C:\Users\kil85\source\repos\polsl-aei-pk4\70137a3a-gr51-repo\Projekt\Arkanoid nowa wersja\Arkanoid nowa wersja\Game.cpp(35,52): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+  Platforma.cpp
+  Stale.cpp
+  Trwa generowanie kodu
+  6 of 171 functions ( 3.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  Arkanoid nowa wersja.vcxproj -> C:\Users\kil85\source\repos\polsl-aei-pk4\70137a3a-gr51-repo\Projekt\Arkanoid nowa wersja\x64\Release\Arkanoid nowa wersja.exe

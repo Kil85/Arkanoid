@@ -1,0 +1,31 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\kil85\\source\\repos\\polsl-aei-pk4\\70137a3a-gr51-repo\\projekt\\arkanoid nowa wersja\\arkanoid nowa wersja\\stoper.ixx",
+        "ProvidedModule": "Stoper",
+        "Includes": [],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": [
+            {
+                "Header": "c:\\program files (x86)\\windows kits\\10\\include\\10.0.19041.0\\ucrt\\time.h",
+                "BMI": "C:\\Users\\kil85\\source\\repos\\polsl-aei-pk4\\70137a3a-gr51-repo\\Projekt\\Arkanoid nowa wersja\\Arkanoid nowa wersja\\x64\\Debug\\time.h_7FMO3SQ5XBN9IBJU.ifc"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.33.31629\\include\\iostream",
+                "BMI": "C:\\Users\\kil85\\source\\repos\\polsl-aei-pk4\\70137a3a-gr51-repo\\Projekt\\Arkanoid nowa wersja\\Arkanoid nowa wersja\\x64\\Debug\\iostream_USI165AB3BB6EOAB.ifc"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.33.31629\\include\\vector",
+                "BMI": "C:\\Users\\kil85\\source\\repos\\polsl-aei-pk4\\70137a3a-gr51-repo\\Projekt\\Arkanoid nowa wersja\\Arkanoid nowa wersja\\x64\\Debug\\vector_4ZXVQ46W1SYKDPH3.ifc"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.33.31629\\include\\ranges",
+                "BMI": "C:\\Users\\kil85\\source\\repos\\polsl-aei-pk4\\70137a3a-gr51-repo\\Projekt\\Arkanoid nowa wersja\\Arkanoid nowa wersja\\x64\\Debug\\ranges_YH3TG7TN5E4UNU0E.ifc"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.33.31629\\include\\regex",
+                "BMI": "C:\\Users\\kil85\\source\\repos\\polsl-aei-pk4\\70137a3a-gr51-repo\\Projekt\\Arkanoid nowa wersja\\Arkanoid nowa wersja\\x64\\Debug\\regex_N6K0GB4FND2Z0XVQ.ifc"
+            }
+        ]
+    }
+}

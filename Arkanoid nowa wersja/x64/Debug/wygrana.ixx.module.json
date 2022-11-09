@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\kil85\\source\\repos\\polsl-aei-pk4\\70137a3a-gr51-repo\\projekt\\arkanoid nowa wersja\\arkanoid nowa wersja\\wygrana.ixx",
+        "ProvidedModule": "Wygrana",
+        "ImportedModules": [],
+        "ImportedHeaderUnits": [
+            "C:\\Users\\kil85\\source\\repos\\polsl-aei-pk4\\70137a3a-gr51-repo\\Projekt\\Arkanoid nowa wersja\\include\\SFML\\Graphics.hpp",
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\include\\iostream",
+            "C:\\Users\\kil85\\source\\repos\\polsl-aei-pk4\\70137a3a-gr51-repo\\Projekt\\Arkanoid nowa wersja\\Arkanoid nowa wersja\\Nacisniety.h"
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+﻿  Trwa skanowanie źródeł pod kątem zależności modułów...
+  Stoper.ixx
+  time.h
+  vector
+  regex
+  iostream
+  ranges
+  Trwa kompilowanie…
+  time.h
+  iostream
+  ranges
+  vector
+  regex
+  Stoper.ixx
+  Arkanoid nowa wersja.cpp
+  Ball.cpp
+C:\Users\kil85\source\repos\polsl-aei-pk4\70137a3a-gr51-repo\Projekt\Arkanoid nowa wersja\Arkanoid nowa wersja\Ball.cpp(28,62): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+C:\Users\kil85\source\repos\polsl-aei-pk4\70137a3a-gr51-repo\Projekt\Arkanoid nowa wersja\Arkanoid nowa wersja\Ball.cpp(28,38): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+  Brick.cpp
+  Game.cpp
+C:\Users\kil85\source\repos\polsl-aei-pk4\70137a3a-gr51-repo\Projekt\Arkanoid nowa wersja\Arkanoid nowa wersja\Game.cpp(57,67): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+C:\Users\kil85\source\repos\polsl-aei-pk4\70137a3a-gr51-repo\Projekt\Arkanoid nowa wersja\Arkanoid nowa wersja\Game.cpp(57,43): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+C:\Users\kil85\source\repos\polsl-aei-pk4\70137a3a-gr51-repo\Projekt\Arkanoid nowa wersja\Arkanoid nowa wersja\Game.cpp(58,76): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+C:\Users\kil85\source\repos\polsl-aei-pk4\70137a3a-gr51-repo\Projekt\Arkanoid nowa wersja\Arkanoid nowa wersja\Game.cpp(58,52): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+  Koniec.cpp
+  Menu.cpp
+  Nacisniety.cpp
+  Platforma.cpp
+C:\Users\kil85\source\repos\polsl-aei-pk4\70137a3a-gr51-repo\Projekt\Arkanoid nowa wersja\Arkanoid nowa wersja\Platforma.cpp(26,62): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+C:\Users\kil85\source\repos\polsl-aei-pk4\70137a3a-gr51-repo\Projekt\Arkanoid nowa wersja\Arkanoid nowa wersja\Platforma.cpp(26,38): warning C4244: "argument": konwersja z "unsigned int" do "float", możliwa utrata danych
+  Punkty.cpp
+C:\Users\kil85\source\repos\polsl-aei-pk4\70137a3a-gr51-repo\Projekt\Arkanoid nowa wersja\Arkanoid nowa wersja\Punkty.cpp(16,15): warning C4244: "+=": konwersja z "float" do "int", możliwa utrata danych
+  Rectangle.cpp
+  Scoreboard.cpp
+  Stale.cpp
+  Generowanie kodu...
+C:\Users\kil85\source\repos\polsl-aei-pk4\70137a3a-gr51-repo\Projekt\Arkanoid nowa wersja\Arkanoid nowa wersja\Scoreboard.cpp(93): warning C4715: "Scoreboard::ZnajdzMiejsce”: niewszystkie ścieżki kodu zwracają wartość
+  Arkanoid nowa wersja.vcxproj -> C:\Users\kil85\source\repos\polsl-aei-pk4\70137a3a-gr51-repo\Projekt\Arkanoid nowa wersja\x64\Debug\Arkanoid nowa wersja.exe

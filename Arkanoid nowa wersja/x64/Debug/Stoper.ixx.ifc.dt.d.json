@@ -1,0 +1,10 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\arkanoid nowa wersja\\arkanoid nowa wersja\\stoper.ixx",
+        "ProvidedModule": "Stoper",
+        "Includes": [],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
